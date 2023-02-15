@@ -1,16 +1,16 @@
-### Hi there 👋
+###  :man_technologist:  VaderKai
 
-<!--
-**VaderKai/VaderKai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm VaderKai, a passionate backend developer from China  🚀. 
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=VaderKai&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</html>
+
+-  **Focusing :** seata-go :fire: 
+-  **Skills :** Golang, Java, Distributed, Infrastructure...
+-  **Hobbies :** Bike :bike: & PC Game 🎮
+-  **Job :** a mini backend developer in [Alibaba](https://www.alibaba.com)
+-  **Contact me :** [VaderKai](mailto:vader51909@gmail.com)
+
+![ ](https://raw.githubusercontent.com/hoochanlon/hoochanlon/master/assets/github-contribution-grid-snake.svg)
